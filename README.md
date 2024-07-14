@@ -1137,8 +1137,4 @@ You can interact with the API server using HTTP requests. You can use tools like
   }
   ```
 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
